@@ -1,4 +1,4 @@
-# VLM Chatbot — Frontend
+# VLM Chatbot - Frontend
 A modern, production-ready **Next.js** frontend for interacting with the Vision-Language Model (VLM).  
 This interface provides a clean chat experience where users can upload satellite imagery, ask questions, and receive VQA responses from the backend.
 
